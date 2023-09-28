@@ -1,12 +1,6 @@
 # lab-2-assignment
-## task
-The code in your editor does the following:
+## Task
+<img width="616" alt="image" src="https://github.com/ZoeyZzz42/lab-2-assignment/assets/145056570/7b586339-ccee-4dfa-a587-e1543dcaba8c">
+## Screenshot of solution
+<img width="824" alt="image" src="https://github.com/ZoeyZzz42/lab-2-assignment/assets/145056570/d925694f-051a-40fc-9269-e6564c55b1ba">
 
-Reads an integer from stdin and saves it to a variable, , denoting some number of integers.
-Reads  integers corresponding to  from stdin and saves each integer  to a variable, .
-Attempts to print each element of an array of integers named .
-Write the following code in the unlocked portion of your editor:
-
-Create an array, , capable of holding  integers.
-Modify the code in the loop so that it saves each sequential value to its corresponding location in the array. For example, the first value must be stored in , the second value must be stored in , and so on.
-Good luck!
